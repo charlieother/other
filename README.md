@@ -1,4 +1,4 @@
-#Freedom Fever 2022
+# Freedom Fever 2022
 
 ### Technologies used:
 
