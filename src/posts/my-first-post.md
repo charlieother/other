@@ -14,8 +14,6 @@ tags:
 
 ## This is a Heading h2
 
-![](/static/img/freedom_fever.svg)
-
 ###### This is a Heading h6
 
 ## Emphasis
@@ -49,7 +47,7 @@ tags:
 
 ## Links
 
-You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
+You may be using [Markdown Live Preview](https://markdownlivepreview.com/). 
 
 ## Blockquotes
 
