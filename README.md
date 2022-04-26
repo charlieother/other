@@ -10,5 +10,5 @@
 ### Template
 
 - Template Instructions: (https://blog.surjithctly.in/neat-stack-create-a-static-website-with-netlify-cms-eleventy-alpinejs-and-tailwindcss)
-[Template Demo](https://neat-starter.netlify.app/)
+- [Template Demo](https://neat-starter.netlify.app/)
 
